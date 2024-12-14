@@ -8,6 +8,9 @@ You are free to improve or change the code.
 
 #install 
 
+apt install tor -y
+
+
 
 git clone https://github.com/ITSTHEGHOST/torget
 
